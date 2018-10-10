@@ -4,7 +4,7 @@ The second Objects lab,from the BlueJ book's second chapter.
 
 Look for the Chapter reading you need in the doc folder. There is 35 pages of reading and exercises in the chapter.
 
-Work through all these exercises.
+Work through all these exercises. You edit this file with your answers for these exercises.
 
 * Exercise 2.1 Create a TicketMachine object on the object bench and take a look
 at its methods. You should see the following: getBalance, getPrice, insertMoney,
