@@ -2,7 +2,7 @@
 
 The second Objects lab,from the BlueJ book's second chapter.
 
-Look for the Chapter reading you need in the doc folder. There is 35 pages of reading and exercises in the chapter.
+Look for the [Chapter 2 reading you](./doc/BlueJ-objects-first-ch2.pdf) need in the doc folder. There is 35 pages of reading and exercises in the chapter.
 
 Work through all these exercises. You edit this file with your answers for these exercises.
 
