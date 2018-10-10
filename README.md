@@ -1,8 +1,8 @@
 # NaiveTicket
 
-the second Objects lab.
+The second Objects lab,from the BlueJ book's second chapter.
 
-look for the Chapter reading you need in the doc folder.
+Look for the Chapter reading you need in the doc folder. There is 35 pages of reading and exercises in the chapter.
 
 Work through all these exercises.
 
