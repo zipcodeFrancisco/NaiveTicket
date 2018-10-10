@@ -4,6 +4,8 @@ the second Objects lab.
 
 look for the Chapter reading you need in the doc folder.
 
+Work through all these exercises.
+
 * Exercise 2.1 Create a TicketMachine object on the object bench and take a look
 at its methods. You should see the following: getBalance, getPrice, insertMoney,
 and printTicket. Try out the getPrice method. You should see a return value containing
@@ -63,7 +65,9 @@ private Person tutor;
 private Game game;
 ```
 * Exercise 2.13 In the following field declaration from the TicketMachine class
-`private int price;`
+```
+private int price;
+```
 does it matter which order the three words appear in? Edit the TicketMachine class to
 try different orderings. After each change, close the editor. Does the appearance of the
 class diagram after each change give you a clue as to whether or not other orderings are
@@ -78,8 +82,11 @@ status.
 ```
 public Student(String name)
 ```
-* Exercise 2.17 How many parameters does the following constructor have andwhat are their types?
+* Exercise 2.17 How many parameters does the following constructor have and what are their types?
 ```
 public Book(String title, double price)
 ```
-* Exercise 2.18 Can you guess what types some of  the Bookclass’s fields mightbe? Can you assume anything about the names of its fields?
+* Exercise 2.18 Can you guess what types some of the Book class’s fields might be? Can you assume anything about the names of its fields?
+
+Work all Exercises from 2.19 to 2.58 that are NOT marked *Challenge exercise*.
+READ upto and INCLUDING section 2.15 of this chapter.
