@@ -8,8 +8,8 @@ There is 35 pages of reading and exercises in the chapter.
 Work through all these exercises. You edit this file with your answers for these exercises.
 
 ### Exercise 2.1
-* Create a TicketMachine object on the object bench.
-* Upon viewing its methods, `getBalance`, `getPrice`, `insertMoney`, `printTicket`.
+* Create a `TicketMachine` object on the object bench.
+* The following methods should be available upon invoking it from the object bench `getBalance`, `getPrice`, `insertMoney`, `printTicket`.
 * Use `getPrice` method to view the value of the price of the tickets that was set when this object was created.
 * Use `insertMoney` method to simulate inserting an amount of money into the machine.
 * Use `getBalance` to check that the machine has a record of the amount inserted.
