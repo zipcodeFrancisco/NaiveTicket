@@ -79,6 +79,7 @@ In the following field declaration from the TicketMachine class<br>
 private int price;
 ```<br>
 does it matter which order the three words appear in?
+
 * Edit the `TicketMachine` class to try different orderings. After each change, close the editor.
 	* Does the appearance of the class diagram after each change give you a clue as to whether or not other orderings are
 possible?
