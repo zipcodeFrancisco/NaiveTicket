@@ -74,6 +74,7 @@ private Person tutor;
 private Game game;
 ```
 ### Exercise 2.13
+
 In the following field declaration from the TicketMachine class<br>
 ```
 private int price;
