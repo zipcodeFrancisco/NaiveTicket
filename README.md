@@ -8,8 +8,8 @@ There is 35 pages of reading and exercises in the chapter.
 Work through all these exercises. You edit this file with your answers for these exercises.
 
 ### Exercise 2.1
-* Create a `TicketMachine` object on the object bench.
-* The following methods should be available upon invoking it from the object bench `getBalance`, `getPrice`, `insertMoney`, `printTicket`.
+* Create a TicketMachine object on the object bench.
+* Upon viewing its methods, `getBalance`, `getPrice`, `insertMoney`, `printTicket`.
 * Use `getPrice` method to view the value of the price of the tickets that was set when this object was created.
 * Use `insertMoney` method to simulate inserting an amount of money into the machine.
 * Use `getBalance` to check that the machine has a record of the amount inserted.
@@ -60,7 +60,8 @@ in the outer wrapper of a class?
 
 ### Exercise 2.11
 * What do you think is the type of each of the following fields?
-```
+
+```java
 private int count;
 private Student representative;
 private Server host;
@@ -68,7 +69,8 @@ private Server host;
 
 ### Exercise 2.12
 * What are the names of the following fields?
-```
+
+```java
 private boolean alive;
 private Person tutor;
 private Game game;
@@ -76,11 +78,11 @@ private Game game;
 ### Exercise 2.13
 
 In the following field declaration from the TicketMachine class<br>
-```
-private int price;
-```<br>
-does it matter which order the three words appear in?
 
+```java
+private int price;
+```
+does it matter which order the three words appear in?
 * Edit the `TicketMachine` class to try different orderings. After each change, close the editor.
 	* Does the appearance of the class diagram after each change give you a clue as to whether or not other orderings are
 possible?
