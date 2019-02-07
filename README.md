@@ -55,17 +55,27 @@ in the outer wrapper of a class?
 	#### Error 1&2: “identifier expected”
 	#### Error 3: invalid method declaration; return type required
 	* Do you think this message clearly explains what is wrong?
-	##### No, it should have a better description. It is not intuitive for me.
+	#### No, it should have a better description. It is not intuitive for me.
 ### Exercise 2.8
 * Check whether or not it is possible to leave out the word `public` from the outer wrapper of the `TicketMachine` class.
+	#### Yes, it is possible. It is not clear for me now.
 
 ### Exercise 2.9
 * From your earlier experimentation with the ticket machine objects within BlueJ you can probably remember the names of some of the methods – `printTicket`, for instance.
 	* Look at the class definition in Code 2.1 and use this knowledge, along with the additional information about ordering we have given you, to try to make a list of the names of the fields, constructors, and methods in the `TicketMachine` class.
 	* Hint: There is only one constructor in the class.
+	#### Constructors: TicketMachine
+	#### Fields: price, balance, total.
+	#### Methods: getPrice, getBalance, getTotal, insertMoney, printTicket.
+
 
 ### Exercise 2.10
 * Do you notice any features of the constructor that make it significantly different from the other methods of the class?
+	#### Methods use return.
+	#### Constructors do not return anything, they just create an object. 
+	#### Constructors has the same name of the class. 
+	#### Constructors are called only one time.
+
 
 ### Exercise 2.11
 * What do you think is the type of each of the following fields?
