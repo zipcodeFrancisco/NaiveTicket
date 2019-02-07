@@ -17,16 +17,16 @@ Work through all these exercises. You edit this file with your answers for these
 
 ### Exercise 2.2
 * What value is returned if you check the machine’s balance after it has printed a ticket?
-- 0.
+#### 0.
 
 ### Exercise 2.3
 * Experiment with inserting different amounts of money before printing tickets.
 	* Do you notice anything strange about the machine’s behavior?
-	- getBalance increase.
+	#### getBalance increase.
 	* What happens if you insert too much money into the machine – do you receive any refund?
-	- No.
+	#### No.
 	* What happens if you do not insert enough and then try to print a ticket?
-	- Nothing, the ticket always print the same amount.
+	#### Nothing, the ticket always print the same amount.
 
 ### Exercise 2.4
 * Try to obtain a good understanding of a ticket machine’s behavior by interacting with it on the object bench before we start looking at how the `TicketMachine` class is implemented in the next section.
