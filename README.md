@@ -85,6 +85,7 @@ private int count;
 private Student representative;
 private Server host;
 ```
+	#### count = integer, representative = Student, host = Server.
 
 ### Exercise 2.12
 * What are the names of the following fields?
@@ -94,6 +95,8 @@ private boolean alive;
 private Person tutor;
 private Game game;
 ```
+	#### alive, tutor, game
+
 ### Exercise 2.13
 
 In the following field declaration from the TicketMachine class<br>
@@ -102,6 +105,7 @@ In the following field declaration from the TicketMachine class<br>
 private int price;
 ```
 does it matter which order the three words appear in?
+#### Yes.
 * Edit the `TicketMachine` class to try different orderings. After each change, close the editor.
 	* Does the appearance of the class diagram after each change give you a clue as to whether or not other orderings are
 possible?
