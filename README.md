@@ -17,7 +17,7 @@ Work through all these exercises. You edit this file with your answers for these
 
 ### Exercise 2.2
 * What value is returned if you check the machine’s balance after it has printed a ticket?
-#### 0.
+	#### 0.
 
 ### Exercise 2.3
 * Experiment with inserting different amounts of money before printing tickets.
@@ -35,6 +35,7 @@ Work through all these exercises. You edit this file with your answers for these
 * Create another ticket machine for tickets of a different price.
 	* Buy a ticket from that machine.
 	* Does the printed ticket look different?
+	#### It is similar to the previous one but it has another amount.
 
 ### Exercise 2.6
 * Write out what you think the outer wrappers of the `Student` and `LabClass` classes might look like – do not worry about the inner part.
@@ -45,12 +46,16 @@ Does it matter whether we write<br>
 or<br>
 `class public TicketMachine`<br>
 in the outer wrapper of a class?
+	#### Yes, it matters. The order is important. An error occurs when I swapped the to words.
 
 * Edit the source of the `TicketMachine` class to make the change and then close the editor window.
 	* Do you notice a change in the class diagram?
+	#### Yes, diagonal lines appear in BlueJ.
 	* What error message do you get when you now press the compile button?
+	#### Error 1&2: “identifier expected”
+	#### Error 3: invalid method declaration; return type required
 	* Do you think this message clearly explains what is wrong?
-
+	##### No, it should have a better description. It is not intuitive for me.
 ### Exercise 2.8
 * Check whether or not it is possible to leave out the word `public` from the outer wrapper of the `TicketMachine` class.
 
